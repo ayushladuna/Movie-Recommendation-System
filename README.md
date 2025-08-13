@@ -1,3 +1,5 @@
+**Find your next favorite movie with AI-powered recommendations from the TMDB dataset.**
+
 # 🎬 Movie Recommendation System
 
 A simple **content-based movie recommendation system** built with Python and Scikit-learn.  
